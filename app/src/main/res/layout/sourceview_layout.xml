@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:textColor="@color/fragment__color3"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:paddingStart="15dp"
+    android:paddingEnd="15dp"
+    android:paddingTop="15dp"
+    android:layout_margin="5dp"
+    android:orientation="vertical">
+    <EditText
+        android:textColor="@color/fragment__color3"
+        android:id="@+id/input"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:hint="输入query"
+        android:gravity="start|top"
+        android:background="@null"
+        android:layout_weight="6"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/my_color1" />
+    <FrameLayout
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp">
+
+        <Button
+            android:id="@+id/delete"
+            android:layout_gravity="start|center"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:background="@drawable/clear" />
+
+        <Button
+            android:id="@+id/query"
+            android:layout_width="wrap_content"
+            android:layout_height="19dp"
+            android:layout_gravity="end|center"
+            android:background="@android:color/transparent"
+            android:text="翻译"
+            android:textColor="@color/fragment__color3" />
+    </FrameLayout>
+
+</LinearLayout>

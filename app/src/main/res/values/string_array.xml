@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="source">
+        <item>自动检测</item>
+        <item>中文</item>
+        <item>英文</item>
+        <item>日文</item>
+        <item>韩文</item>
+        <item>法文</item>
+        <item>德文</item>
+    </string-array>
+    <string-array name="target">
+        <item>中文</item>
+        <item>英文</item>
+        <item>日文</item>
+        <item>韩文</item>
+        <item>法文</item>
+        <item>德文</item>
+    </string-array>
+</resources>

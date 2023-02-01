@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:textColor="@color/white"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent"
+    android:paddingStart="15dp"
+    android:paddingEnd="15dp"
+    android:paddingTop="15dp"
+    android:layout_margin="5dp"
+    android:orientation="vertical">
+    <Button
+        android:id="@+id/copy"
+        android:layout_gravity="end|top"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:background="@drawable/copy" />
+    <FrameLayout
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp">
+        <TextView
+            android:scrollbars="vertical"
+            android:textColor="@color/fragment__color3"
+            android:id="@+id/output"
+            android:textSize="18sp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="start|top"
+            android:background="@null"/>
+    </FrameLayout>
+
+</LinearLayout>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/LY/AndroidStudioProjects/test0_debug/app/src/main/res/drawable-v24/edit_bg.xml" value="0.11875" />
+        <entry key="..\:/Users/LY/AndroidStudioProjects/test0_debug/app/src/main/res/drawable/edit_bg.xml" value="0.11875" />
+        <entry key="..\:/Users/LY/AndroidStudioProjects/test0_debug/app/src/main/res/layout/actionbar_layout.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/LY/AndroidStudioProjects/test0_debug/app/src/main/res/layout/activity_favorites_layout.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/LY/AndroidStudioProjects/test0_debug/app/src/main/res/layout/activity_query.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/LY/AndroidStudioProjects/test0_debug/app/src/main/res/layout/activity_translator.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/LY/AndroidStudioProjects/test0_debug/app/src/main/res/layout/activity_word_list.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/LY/AndroidStudioProjects/test0_debug/app/src/main/res/layout/booklist_fragment.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/LY/AndroidStudioProjects/test0_debug/app/src/main/res/layout/customactionbar.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/LY/AndroidStudioProjects/test0_debug/app/src/main/res/layout/login_main.xml" value="0.1" />
+        <entry key="..\:/Users/LY/AndroidStudioProjects/test0_debug/app/src/main/res/layout/my_searchview.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/LY/AndroidStudioProjects/test0_debug/app/src/main/res/layout/myspinner_layout.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/LY/AndroidStudioProjects/test0_debug/app/src/main/res/layout/recycler_item.xml" value="0.1" />
+        <entry key="..\:/Users/LY/AndroidStudioProjects/test0_debug/app/src/main/res/layout/review_fragment.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/LY/AndroidStudioProjects/test0_debug/app/src/main/res/layout/setting_fragment.xml" value="0.2946708463949843" />
+        <entry key="..\:/Users/LY/AndroidStudioProjects/test0_debug/app/src/main/res/layout/sourceview_layout.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/LY/AndroidStudioProjects/test0_debug/app/src/main/res/layout/statistic_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/LY/AndroidStudioProjects/test0_debug/app/src/main/res/layout/targetview_layout.xml" value="0.10260416666666666" />
+        <entry key="..\:/Users/LY/AndroidStudioProjects/test0_debug/app/src/main/res/layout/trans_spinner_layout.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/LY/AndroidStudioProjects/test0_debug/app/src/main/res/layout/wordlist_fragment.xml" value="0.22" />
+        <entry key="..\:/Users/LY/AndroidStudioProjects/test0_debug/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.19479166666666667" />
+        <entry key="..\:/Users/LY/AndroidStudioProjects/test0_debug/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.19479166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/fragment_color1"
+    android:orientation="horizontal">
+    <!--    android:background="@color/fragment_color1"-->
+
+    <ImageView
+        android:id="@+id/header_back"
+        android:layout_width="30dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_gravity="center_vertical"
+        android:layout_marginStart="1dp"
+        android:layout_marginLeft="1dp"
+        android:src="@drawable/back" />
+
+    <Button
+        android:id="@+id/change"
+        android:layout_width="30dp"
+        android:layout_height="20dp"
+        android:layout_centerInParent="true"
+        android:layout_margin="10dp"
+        android:background="@drawable/change" />
+
+    <Spinner
+        android:id="@+id/source"
+        android:layout_width="100dp"
+        android:layout_toStartOf="@+id/change"
+        android:layout_height="match_parent"
+        android:background="@android:color/transparent"
+        android:layout_toLeftOf="@+id/change" />
+
+    <Spinner
+        android:id="@+id/target"
+        android:layout_toEndOf="@+id/change"
+        android:layout_width="100dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@android:color/transparent"
+        android:layout_toRightOf="@+id/change" />
+
+</RelativeLayout>
